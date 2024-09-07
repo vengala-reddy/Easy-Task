@@ -1,4 +1,17 @@
-# ModernAngularCompleteGuide
+# EasyTaskManagement
+
+## Overview
+EasyTaskManagement is a task management application built using modern Angular features for CRUD operations. This project leverages the latest capabilities of Angular 18 to provide a robust and efficient task management solution.
+
+## Features
+- **Signals**: Used for reactive programming and state management.
+- **Input/Output**: Facilitates communication between components.
+- **Inject**: Simplifies dependency injection.
+- **Standalone Components**: Promotes modularity and reusability.
+- **Fetch HTTP API**: Handles HTTP requests and responses.
+- **Services**: Encapsulates business logic and data access.
+- **Dependency Injection**: Manages dependencies efficiently.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 

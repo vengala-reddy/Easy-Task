@@ -1,0 +1,9 @@
+<app-card>
+    @if (receivedUser()) {
+    <button [class.active]="isUserSelected()" (click)="onSelectUser()">
+        <img [src]="imagePath()" [alt]="receivedUser().name">
+        <span>{{receivedUser().name}}</span>
+    </button>
+    }
+</app-card>
+    
